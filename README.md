@@ -1,10 +1,6 @@
 # LightweightFineTuning
 Apply Lightweight Fine-Tuning to a Foundation Model
-
-
-# Define the content for the README.md file again with a clear structure
-readme_content = """
-# Lightweight Fine-Tuning with LoRA on IMDB Sentiment Analysis
+## Lightweight Fine-Tuning with LoRA on IMDB Sentiment Analysis
 
 This project demonstrates the use of Low-Rank Adaptation (LoRA), a Parameter-Efficient Fine-Tuning (PEFT) technique, to fine-tune a pre-trained `distilbert-base-uncased` model for binary sentiment classification on the IMDB movie reviews dataset. 
 
